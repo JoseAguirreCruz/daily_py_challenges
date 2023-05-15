@@ -26,3 +26,16 @@
 #```
 
 # Your solution for 30-bank_transactions here:
+
+# class BankAccount():
+    
+#     balance = []
+#     def __init__(self):
+#         self.balance = 0
+
+#     def transaction(self):
+#         print('Your current balance is: ')
+#         print(self.balance)
+
+# test_account = BankAccount()
+# test_account.transaction()
